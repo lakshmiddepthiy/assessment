@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="refresh">Refresh</string>
+    <string name="country_code">Country Code</string>
+    <string name="state_code">State Code</string>
+    <string name="city">City</string>
+    <string name="submit">Submit</string>
+    <string name="humidity">humidity</string>
+    <string name="description">description</string>
+    <string name="error">The application has encountered an unknown error.</string>
+</resources>
